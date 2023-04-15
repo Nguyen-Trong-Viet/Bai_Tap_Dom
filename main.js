@@ -120,7 +120,6 @@ btnTinh.onclick = function () {
  *
  *  * Đầu ra
  *  -
- *
  */
 
 document.getElementById("btnTinhTong").onclick = function () {
